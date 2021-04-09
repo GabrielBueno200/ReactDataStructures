@@ -16,5 +16,6 @@ Since we've developed the application using both React js libs (Web and Native),
 
 ## Video: Explaining the code
 In this video below you can watch how the code works (available in Brazilian Portuguese only)
-[![youtubeVideo](http://img.youtube.com/vi/H8KYPN8KZYc/0.jpg)](http://www.youtube.com/watch?v=H8KYPN8KZYc "Data Structure Project")
+[![youtubeVideo](https://user-images.githubusercontent.com/56837996/114181263-ae26ad80-9917-11eb-839e-f39a851dd63f.png)](http://www.youtube.com/watch?v=H8KYPN8KZYc "Data Structure Project")
+
 
