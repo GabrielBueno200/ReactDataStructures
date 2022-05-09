@@ -1,5 +1,5 @@
 # React: Data Structures Project
-The main purpose of the project is present four data structures (Doubly Linked List, Hash Table, Static Queue and Heap) to the user in a easy way, through animations and simulations.
+The main purpose of the project is to present four data structures (Doubly Linked List, Hash Table, Static Queue and Heap) to the user in a easy way, through animations and simulations.
 The project was developed as a college project to Data Structure (react web application) and Mobile Programming (react native application) subjects of Computer Science course.
 
 ## Execution
